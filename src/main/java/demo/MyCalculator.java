@@ -22,7 +22,7 @@ public class MyCalculator {
 		System.out.println("PollSCM is added ");
 	}
 	
-	static void  show() {
+	public void  show() {
 		System.out.println("DEMO Jenkins File is added ");
 	}
 	
